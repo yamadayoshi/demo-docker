@@ -3,8 +3,8 @@ from mysql.connector import errorcode
 
 DATABASE = 'data_py'
 
-name = 'Poty'
-age = 34
+name = 'Philips'
+age = 31
 
 try:
     db = mysql.connector.connect(
